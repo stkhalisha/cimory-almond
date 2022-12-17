@@ -25,7 +25,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 article {
@@ -54,7 +54,7 @@ article > * {
   padding: 20px;
 }
 
-.product-content h5 {
+.product-category {
   color: var( --dark-grayish-blue);
   font-family: var(--monserrat);
   font-size: 12px;
@@ -93,7 +93,7 @@ article > * {
   font-weight: 700;
 }
 
-.price .product-original-price {
+del {
   color: var( --dark-grayish-blue);
   font-family: var(--monserrat);
   font-size: 16px;
