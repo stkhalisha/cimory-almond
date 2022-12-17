@@ -54,7 +54,7 @@ article > * {
   padding: 20px;
 }
 
-.product-category {
+.product-content .product-category {
   color: var( --dark-grayish-blue);
   font-family: var(--monserrat);
   font-size: 12px;
@@ -83,7 +83,6 @@ article > * {
   display: flex;
   align-items: center;
   margin: 20px 15px 25px;
-
 }
 
 .price .product-current-price {
