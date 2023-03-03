@@ -37,4 +37,4 @@ Users should be able to:
 
 ### What I learned
 
-This project really improved my CSS coding skills by building realistic projects.  Improved my knowledge about flexbox and responsive design. 
+This project really improved my CSS coding skills by building realistic projects. Improved my knowledge about flexbox and responsive design. 
